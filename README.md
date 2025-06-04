@@ -38,12 +38,10 @@ Desde esta perspectiva se abordó la planificación estructurada del sistema:
 ## Documentación principal
 
 - [Idea del proyecto](./01-introduccion-roles/definicion-roles-idea-del-proyecto.pdf)  
-- [Roles y cuadro de usuarios](./01-introduccion-roles/cuadro-roles-de-usuario.md)  
-- [Historias de usuario](./02-analisis-usuario/historias-de-usuario.md)  
-- [Requerimientos funcionales](./03-requerimientos/requerimientos-funcionales.md)  
-- [Etapas del Design Thinking](./05-design-thinking/etapas-design-thinking.md)  
-- [Conceptos fundamentales de UX](./06-ux-ui/conceptos-fundamentales-ux.md)  
-- [Diseño de interacción](./06-ux-ui/diseno-de-interaccion.md)  
+- [Cuadro de usuarios](./01-introduccion-roles/cuadro-roles-de-usuario.pdf)  
+- [Historias de usuario](https://padlet.com/jhonjjrv0622/ingredientia-k4bwgu45gi0xwwsn)  
+- [Requerimientos](./03-requerimientos/requerimientos.pdf)  
+- [Aplicacion Diseño en Ingenieria](./05-aplicacion-conceptos-diseno-en-ingenieria/documentacion-prototipo-busqueda-recetas.pdf)   
 - [Descripción del prototipo](./07-prototipo/descripcion-prototipo.md)  
 - [Acceder al prototipo](./07-prototipo/link-figma.md)
 
