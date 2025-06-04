@@ -49,10 +49,10 @@ Desde esta perspectiva se abordó la planificación estructurada del sistema:
 
 ---
 ## Participantes
-David Alexander Santisteban Apolinar
-Jhoan Stiven Jimenez Ardila
-Andres Julian Mendivelso Chaparro
-Jhon Jairo Riascos Velandia
+David Alexander Santisteban Apolinar  
+Jhoan Stiven Jimenez Ardila  
+Andres Julian Mendivelso Chaparro  
+Jhon Jairo Riascos Velandia  
 
 ---
 ## Licencia
