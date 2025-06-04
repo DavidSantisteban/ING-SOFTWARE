@@ -37,7 +37,7 @@ Desde esta perspectiva se abordó la planificación estructurada del sistema:
 
 ## Documentación principal
 
-- [Idea del proyecto](./01-introduccion-roles/idea-del-proyecto.md)  
+- [Idea del proyecto](./01-introduccion-roles/Definicion de Roles e Idea del proyecto.pdf)  
 - [Roles y cuadro de usuarios](./01-introduccion-roles/cuadro-roles-de-usuario.md)  
 - [Historias de usuario](./02-analisis-usuario/historias-de-usuario.md)  
 - [Requerimientos funcionales](./03-requerimientos/requerimientos-funcionales.md)  
