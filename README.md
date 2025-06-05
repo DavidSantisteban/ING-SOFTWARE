@@ -42,8 +42,8 @@ Desde esta perspectiva se abordó la planificación estructurada del sistema:
 - [Historias de usuario](https://padlet.com/jhonjjrv0622/ingredientia-k4bwgu45gi0xwwsn)  
 - [Requerimientos](./03-requerimientos/requerimientos.pdf)  
 - [Aplicacion Diseño en Ingenieria](./05-aplicacion-conceptos-diseno-en-ingenieria/documentacion-prototipo-busqueda-recetas.pdf)   
-- [Descripción del prototipo](./07-prototipo/descripcion-prototipo.md)  
-- [Acceder al prototipo](./07-prototipo/link-figma.md)
+- [Descripción y acceso del prototipo](./06-prototipo/descripcion-prototipo.md)  
+
 
 ---
 ## Participantes
