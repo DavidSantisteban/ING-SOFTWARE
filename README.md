@@ -42,7 +42,9 @@ Desde esta perspectiva se abordó la planificación estructurada del sistema:
 - [Historias de usuario](https://padlet.com/jhonjjrv0622/ingredientia-k4bwgu45gi0xwwsn)  
 - [Requerimientos](./03-requerimientos/requerimientos.pdf)  
 - [Aplicacion Diseño en Ingenieria](./05-aplicacion-conceptos-diseno-en-ingenieria/documentacion-prototipo-busqueda-recetas.pdf)   
-- [Descripción y acceso del prototipo](./06-prototipo/descripcion-prototipo.md)  
+- [Descripción prototipo](./06-prototipo/descripcion-prototipo.md)
+- [Acceso Directo al prototipo](https://www.figma.com/proto/mdNP4amKXpUGMI2ex064Uw/Entrega-Final?node-id=92-425&t=P7zfQEhNO5wPRB8t-1&starting-point-node-id=4%3A268)
+- [Acceso Directo a la Estructura del prototipo](https://www.figma.com/design/mdNP4amKXpUGMI2ex064Uw/Entrega-Final?node-id=0-1&p=f)
 
 
 ---
