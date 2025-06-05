@@ -4,11 +4,16 @@ El prototipo de la aplicación **INGREDIENTIA** fue desarrollado con el objetivo
 
 La interfaz está organizada de manera clara y funcional, permitiendo al usuario:
 
-- Ingresar manualmente los ingredientes que tiene disponibles.
-- Obtener recetas sugeridas en función de esos ingredientes.
-- Navegar por categorías como sopas, desayunos, comidas, postres, entre otras.
-- Visualizar detalles básicos de cada receta (nombre, imagen, ingredientes y pasos).
-- Marcar recetas como favoritas para guardarlas en un apartado accesible.
+- Ingresar manualmente los ingredientes que tiene disponibles.  
+[![image.png](https://i.postimg.cc/rpyKzy9L/image.png)](https://postimg.cc/3k6KcT6L)
+- Obtener recetas sugeridas en función de esos ingredientes.  
+[![image.png](https://i.postimg.cc/PxYsjY8f/image.png)](https://postimg.cc/phW1Q9Z3)
+- Navegar por categorías como sopas, desayunos, comidas, postres, entre otras.  
+ [![image.png](https://i.postimg.cc/y6LnNWX7/image.png)](https://postimg.cc/Hj7bZYhN)  
+- Visualizar detalles básicos de cada receta (nombre, imagen, ingredientes y pasos).  
+[![image.png](https://i.postimg.cc/j5bwK6kZ/image.png)](https://postimg.cc/wtwTQNzm) 
+- Marcar recetas como favoritas para guardarlas en un apartado accesible.  
+- [![image.png](https://i.postimg.cc/BvDpMgKg/image.png)](https://postimg.cc/94myfy1R) 
 
 El diseño prioriza una experiencia intuitiva, con colores suaves, íconos reconocibles y tipografía clara. Se evitaron funciones innecesarias para mantener una navegación simple, fluida y comprensible desde el primer uso.
 
